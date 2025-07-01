@@ -273,24 +273,28 @@ document.addEventListener("DOMContentLoaded", () => {
         });
     };
 
-    const reiniciarJuego = async () => {
-        clearInterval(intervalo);
-        try {
-            const res = await fetch("datos/base-de-datos.json");
-            const datos = await res.json();
-            seleccionarPreguntas(datos);
-            indice = 0;
-            puntos = 0;
-            actualizarPuntos();
-            inputRespuesta.disabled = false;
-            inputRespuesta.value = '';
-            iniciarTemporizador();
-            mostrarPregunta();
-        } catch (error) {
-            preguntaTexto.innerText = "Error al cargar preguntas.";
-            console.error("Error al cargar JSON:", error);
-        }
-    };
+const reiniciarJuego = async () => {
+    clearInterval(intervalo); 
+    try {
+        const res = await fetch("datos/base-de-datos.json");
+        const datos = await res.json();
+        seleccionarPreguntas(datos);
+        indice = 0;
+        puntos = 0;
+        actualizarPuntos();
+        inputRespuesta.disabled = false;
+        inputRespuesta.value = '';
+
+       
+        tiempo = 180; 
+        timerTexto.textContent = tiempo; 
+        iniciarTemporizador(); 
+        mostrarPregunta();
+    } catch (error) {
+        preguntaTexto.innerText = "Error al cargar preguntas.";
+        console.error("Error al cargar JSON:", error);
+    }
+};
 
     btnInicio.addEventListener("click", () => {
         pantallaInicio.style.display = "none";
