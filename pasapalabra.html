@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PASAPALABRA</title>
+  <link rel="stylesheet" href="estilos/style.css" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" />
+</head>
+
+<body style="background-image: url('imagenes/fondo.gif');">
+  <div id="pantallaInicio" class="pantalla-inicio">
+    <h1 class="titulo-inicio">PASAPALABRA</h1>
+    <button id="btnInicio" class="boton-inicio">Comenzar Juego</button>
+  </div>
+
+  <div class="contenedor" style="display: none;">
+    <h1 class="titulo">PASAPALABRA</h1>
+    <div class="rosco" id="rosco">
+      <!--<img src="imagenes/iafi.png" alt="logo-centro-rosco" class="img-rosco" width="80px" height="80px" />-->
+      <div id="letra-central" class="letra-central">A</div>
+    </div>
+    <div class="timer" id="timer">180</div>
+    <div id="puntos" class="puntos">
+      <p>Puntos: <span id="puntos-valor">0</span></p>
+    </div>
+    <div class="pregunta" id="pregunta">Cargando pregunta...</div>
+    <input type="text" id="respuesta" placeholder="Tu respuesta" />
+    <div class="botones">
+      <button id="btnResponder">Responder</button>
+      <button id="btnPasar">PASAPALABRA</button>
+      <button id="btnReiniciar">Reiniciar</button>
+    </div>
+  </div>
+
+
+  <script src="javascript/pasapalabra.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</body>
+
+</html>

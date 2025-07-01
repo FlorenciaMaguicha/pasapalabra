@@ -1,0 +1,453 @@
+[
+  {
+    "letra": "A",
+    "opciones": [
+      {
+        "pregunta": "Empieza con A: Inteligencia que simula el pensamiento humano.",
+        "respuesta": "artificial"
+      },
+      {
+        "pregunta": "Empieza con A: Proceso por el cual una persona, animal o sistema adquiere conocimientos o habilidades a través de la experiencia o la práctica.",
+        "respuesta": "aprendizaje"
+      },
+      {
+        "pregunta": "Empieza con A: Conjunto de pasos o instrucciones que se siguen para resolver un problema o realizar una tarea.",
+        "respuesta": "algoritmo"
+      }
+    ]
+  },
+  {
+    "letra": "B",
+    "opciones": [
+      {
+        "pregunta": "Empieza con B: Conjunto de datos o recursos fundamentales para desarrollar o entrenar un sistema.",
+        "respuesta": "base"
+      },
+      {
+        "pregunta": "Empieza con B: Nombre de pila (sin apellido) del cofundador de Microsoft y uno de los pioneros en el desarrollo de la computación personal. También es conocido por su labor filantrópica.",
+        "respuesta": "bill"
+      },
+      {
+        "pregunta": "Contiene B: Máquina programada para realizar tareas de forma automática, a veces imitando acciones humanas.",
+        "respuesta": "robot"
+      }
+    ]
+  },
+  {
+    "letra": "C",
+    "opciones": [
+      {
+        "pregunta": "Empieza con C: Ciencia que estudia computadoras.",
+        "respuesta": "computación"
+      },
+      {
+        "pregunta": "Contiene C: Parte pensante de un sistema. Es como el 'centro de control' del cuerpo.",
+        "respuesta": "cerebro"
+      },
+      {
+        "pregunta": "Empieza con C: Conjunto de instrucciones escritas en un lenguaje que entiende una computadora para que realice tareas específicas.",
+        "respuesta": "código"
+      }
+    ]
+  },
+  {
+    "letra": "D",
+    "opciones": [
+      {
+        "pregunta": "Empieza con D: Información en forma de números, texto o símbolos que se puede usar para tomar decisiones o enseñar a una computadora.",
+        "respuesta": "datos"
+      },
+      {
+        "pregunta": "Empieza con D: Programa que permite que una computadora se comunique y funcione correctamente con un dispositivo, como una impresora o un teclado.",
+        "respuesta": "driver"
+      }, 
+      {
+        "pregunta": "Empieza con D: Que usa números (generalmente ceros y unos) para representar información y procesarla con computadoras u otros dispositivos electrónicos.",
+        "respuesta": "digital"
+      }
+    ]
+  },
+  {
+    "letra": "E",
+    "opciones": [
+      {
+        "pregunta": "Empieza con E: Técnica utilizada en inteligencia artificial y programación donde el resultado de una acción o decisión se utiliza como base para tomar la siguiente, formando una secuencia de pasos.",
+        "respuesta": "encadenamiento"
+      },
+      {
+        "pregunta": "Empieza con E: Proceso en el que una computadora o sistema aprende a realizar una tarea mostrando muchos ejemplos y corrigiendo sus errores.",
+        "respuesta": "entrenamiento"
+      },
+      {
+        "pregunta": "Empieza con E: Resultado incorrecto de una máquina.",
+        "respuesta": "error"
+      }
+    ]
+  },
+  {
+    "letra": "F",
+    "opciones": [
+      {
+        "pregunta": "Empieza con F: Parte de una aplicación o página web con la que interactúa el usuario, como el diseño, los botones y los formularios.",
+        "respuesta": "frontend"
+      },
+      {
+        "pregunta": "Empieza con F: Estructura o disposición específica en la que se organiza y presenta la información, como en documentos, imágenes o archivos.",
+        "respuesta": "formato"
+      },
+      {
+        "pregunta": "Empieza con F: Sección de nuestro sitio web donde se encuentra información acerca de los cursos que ofrecemos.",
+        "respuesta": "formación"
+      }
+    ]
+  },
+  {
+    "letra": "G",
+    "opciones": [
+      {
+        "pregunta": "Empieza con G: Relacionada con la capacidad de crear o generar algo nuevo, como en el caso de modelos de inteligencia artificial que crean contenido, como texto, imágenes o música.",
+        "respuesta": "generativa"
+      },
+      {
+        "pregunta": "Empieza con G: Proyecto de inteligencia artificial desarrollado por Google, que tiene como objetivo crear modelos avanzados de lenguaje y mejorar la interacción con sistemas basados en IA.",
+        "respuesta": "gemini"
+      },
+      {
+        "pregunta": "Empieza con G: Siglas del modelo de inteligencia artificial creado por OpenAI que genera texto de manera coherente y fluida, basado en el análisis de grandes cantidades de datos.",
+        "respuesta": "gpt"
+      }
+    ]
+  },
+  {
+    "letra": "H",
+    "opciones": [
+      {
+        "pregunta": "Empieza con H: Lenguaje de marcado utilizado para crear y estructurar páginas web. Define elementos como texto, imágenes, enlaces y otros contenidos en una página.",
+        "respuesta": "html"
+      },
+      {
+        "pregunta": "Contiene H: Memoria temporal donde se almacenan datos de uso frecuente para que un sistema o aplicación los acceda más rápidamente, mejorando el rendimiento.",
+        "respuesta": "caché"
+      },
+      {
+        "pregunta": "Contiene con H: Prueba utilizada en sitios web para asegurarse de que el usuario es una persona y no un robot, generalmente pidiendo que se resuelvan puzzles o se identifiquen objetos en imágenes.",
+        "respuesta": "captcha"
+      }
+    ]
+  },
+  {
+    "letra": "I",
+    "opciones": [
+      {
+        "pregunta": "Empieza con I: Siglas de Fundación de Inteligencia Artificial.",
+        "respuesta": "iaf"
+      },
+      {
+        "pregunta": "Empieza con I: Red global de computadoras interconectadas que permite el intercambio de información y acceso a servicios como sitios web, correos electrónicos y redes sociales.",
+        "respuesta": "internet"
+      },
+      {
+        "pregunta": "Empieza con I: Ciencia que estudia computadoras.",
+        "respuesta": "informática"
+      }
+    ]
+  },
+  {
+    "letra": "J",
+    "opciones": [
+      {
+        "pregunta": "Empieza con J: Lenguaje de programación ampliamente utilizado para desarrollar aplicaciones móviles, web y de escritorio. ",
+        "respuesta": "java"
+      },
+      {
+        "pregunta": "Contiene J: Caso o situación que se utiliza para ilustrar o explicar algo, mostrando cómo funciona o cómo se aplica en la práctica.",
+        "respuesta": "ejemplo"
+      },
+      {
+        "pregunta": "Empieza con J: Formato ligero para almacenar y transferir datos, comúnmente usado en aplicaciones web para intercambiar información entre servidores y navegadores.",
+        "respuesta": "json"
+      }
+    ]
+  },
+  {
+    "letra": "K",
+    "opciones": [
+      {
+        "pregunta": "Empieza con K: Unidad de medida de almacenamiento digital, equivalente a 1,024 bytes. Se utiliza para medir el tamaño de archivos pequeños, como imágenes o documentos.",
+        "respuesta": "kilobyte"
+      },
+      {
+        "pregunta": "Contiene K: Copia de seguridad de datos importantes para protegerlos en caso de pérdida, daño o falla del sistema original.",
+        "respuesta": "backup"
+      },
+      {
+        "pregunta": "Contiene K: Retroalimentación o comentarios sobre el desempeño o resultado de una acción, utilizados para mejorar o ajustar el proceso o sistema.",
+        "respuesta": "feedback"
+      }
+    ]
+  },
+  {
+    "letra": "L",
+    "opciones": [
+      {
+        "pregunta": "Contiene L: Función o tarea específica que una persona o sistema desempeña dentro de un grupo, proceso o sistema. En IA, puede referirse a las diferentes funciones que un algoritmo o modelo cumple en un proceso.",
+        "respuesta": "rol"
+      },
+      {
+        "pregunta": "Empieza con L: Enlace o conexión entre una página web y otra, o entre diferentes elementos dentro de un sitio. Se utiliza para navegar de una página a otra en Internet.",
+        "respuesta": "link"
+      },
+      {
+        "pregunta": "Empieza con L: Conjunto de símbolos, reglas y estructuras que se usan para comunicar ideas. En informática, se refiere a los lenguajes de programación, que permiten a los programadores escribir instrucciones para las computadoras.",
+        "respuesta": "lenguaje"
+      }
+    ]
+  },
+  {
+    "letra": "M",
+    "opciones": [
+      {
+        "pregunta": "Empieza con M: Aprender con ayuda de máquinas.",
+        "respuesta": "machine learning"
+      },
+      {
+        "pregunta": "Contiene M: En inteligencia artificial, es un sistema o algoritmo entrenado con datos para realizar tareas específicas, como clasificar imágenes, generar texto o hacer predicciones.",
+        "respuesta": "modelo"
+      },
+      {
+        "pregunta": "Empieza con M: Conjunto representativo de datos o información seleccionada para realizar análisis o pruebas, en lugar de trabajar con todos los datos disponibles. En IA, se utiliza para entrenar modelos y hacer predicciones.",
+        "respuesta": "muestra"
+      }
+    ]
+  },
+  {
+    "letra": "N",
+    "opciones": [
+      {
+        "pregunta": "Empieza con N: Tipo de red que intenta imitar la forma en que el cerebro procesa la información para aprender y hacer predicciones.",
+        "respuesta": "neuronal"
+      },
+      {
+        "pregunta": "Empieza con N: Elemento o punto dentro de una red, sistema o estructura. En redes de computadoras, es un dispositivo conectado; en algoritmos y aprendizaje automático, es un punto de procesamiento o decisión dentro de un modelo.",
+        "respuesta": "nodo"
+      },
+      {
+        "pregunta": "Empieza con N: Capacidad de las máquinas para comprender y generar el lenguaje humano de forma que pueda ser entendido por las personas, permitiendo que interactúen con computadoras usando lenguaje común.",
+        "respuesta": "natural"
+      }
+    ]
+  },
+  {
+    "letra": "Ñ",
+    "opciones": [
+      {
+        "pregunta": "Contiene Ñ: idioma poco usada en IA.",
+        "respuesta": "español"
+      }
+    ]
+  },
+  {
+    "letra": "O",
+    "opciones": [
+      {
+        "pregunta": "Empieza con O: Resultado o información generada por un sistema, programa o proceso después de recibir una entrada. En informática, es lo que la computadora muestra o produce como respuesta a una acción o comando.",
+        "respuesta": "output"
+      },
+      {
+        "pregunta": "Empieza con O: Proceso de mejorar un sistema, algoritmo o modelo para que funcione de manera más eficiente, usando menos recursos o alcanzando mejores resultados en menos tiempo.",
+        "respuesta": "optimización"
+      },
+      {
+        "pregunta": "Empieza con O: Organización de investigación en inteligencia artificial que busca desarrollar tecnologías de IA avanzadas y seguras, con el objetivo de beneficiar a toda la humanidad. Es conocida por crear modelos como GPT y DALL·E.",
+        "respuesta": "openai"
+      }
+    ]
+  },
+  {
+    "letra": "P",
+    "opciones": [
+      {
+        "pregunta": "Empieza con P: Repetición o regularidad en los datos o comportamientos que se puede identificar y utilizar para hacer predicciones o tomar decisiones.",
+        "respuesta": "patrón"
+      },
+      {
+        "pregunta": "Empieza con P: Instrucción o pregunta que se le da a una inteligencia artificial para generar una respuesta o realizar una tarea. Es el punto de partida para que el modelo produzca un resultado.",
+        "respuesta": "prompt"
+      },
+      {
+        "pregunta": "Empieza con P: Estimación o suposición sobre un resultado futuro, basada en datos pasados o patrones identificados. ",
+        "respuesta": "predicción"
+      }
+    ]
+  },
+  {
+    "letra": "Q",
+    "opciones": [
+      {
+        "pregunta": "Empieza con Q: Disposición estándar de las teclas en un teclado, que recibe su nombre de las primeras seis letras en la fila superior.",
+        "respuesta": "qwerty"
+      },
+      {
+        "pregunta": "Empieza con Q: Consulta realizada a una base de datos o sistema para obtener información específica.",
+        "respuesta": "query"
+      },
+      {
+        "pregunta": "Contiene Q: Lenguaje de programación utilizado para gestionar bases de datos relacionales.",
+        "respuesta": "sql"
+      }
+    ]
+  },
+  {
+    "letra": "R",
+    "opciones": [
+      {
+        "pregunta": "Empieza con R: Conjunto de dispositivos, como computadoras o servidores, conectados entre sí para compartir información o recursos.",
+        "respuesta": "red"
+      },
+      {
+        "pregunta": "Empieza con R: Es el producto final o la consecuencia de una acción, proceso o cálculo, que muestra lo que ocurre después de realizar una tarea o experimentar una situación.",
+        "respuesta": "resultado"
+      },
+      {
+        "pregunta": "Empieza con R: Proceso de examinar o evaluar algo cuidadosamente para detectar errores, mejoras o cambios necesarios. Se realiza para asegurar que todo esté correcto o actualizado.",
+        "respuesta": "revisión"
+      }
+    ]
+  },
+  {
+    "letra": "S",
+    "opciones": [
+      {
+        "pregunta": "Empieza con S: Representación gráfica o visual de una idea, concepto o valor. En informática, se usa para representar operaciones, comandos o conceptos en un lenguaje de programación o interfaz.",
+        "respuesta": "símbolo"
+      },
+      {
+        "pregunta": "Empieza con S: En el contexto de la inteligencia artificial, se refiere a un tipo de aprendizaje en el que un modelo se entrena utilizando datos etiquetados, es decir, ejemplos con la respuesta correcta, para que aprenda a hacer predicciones o clasificaciones.",
+        "respuesta": "supervisado"
+      },
+      {
+        "pregunta": "Empieza con S: Conjunto de programas y aplicaciones que permiten a un sistema informático realizar tareas específicas.",
+        "respuesta": "software"
+      }
+    ]
+  },
+  {
+    "letra": "T",
+    "opciones": [
+      {
+        "pregunta": "Empieza con T: Conjunto de herramientas, técnicas y conocimientos creados por el ser humano para resolver problemas, mejorar procesos o facilitar tareas, utilizando la ciencia y la ingeniería.",
+        "respuesta": "tecnología"
+      },
+      {
+        "pregunta": "Contiene T: El tiempo que tarda en transferirse o procesarse la información entre dos puntos en un sistema, como el tiempo que pasa entre hacer clic en un enlace y que la página se cargue.",
+        "respuesta": "latencia"
+      },
+      {
+        "pregunta": "Empieza con T: Proceso de probar un sistema, programa o modelo para verificar que funcione correctamente y cumpla con los requisitos o expectativas. Se utiliza para encontrar errores y mejorar el rendimiento.",
+        "respuesta": "testeo"
+      }
+    ]
+  },
+  {
+    "letra": "U",
+    "opciones": [
+      {
+        "pregunta": "Empieza con U: Conector estándar utilizado para transferir datos entre dispositivos, como computadoras, teléfonos y otros periféricos.",
+        "respuesta": "usb"
+      },
+      {
+        "pregunta": "Empieza con U: En inteligencia artificial, quien utiliza un software o servicio digital.",
+        "respuesta": "usuario"
+      },
+      {
+        "pregunta": "Empieza con U: Dirección web que se utiliza para localizar un sitio o página en Internet.",
+        "respuesta": "url"
+      }
+    ]
+  },
+  {
+    "letra": "V",
+    "opciones": [
+      {
+        "pregunta": "Empieza con V: Medida de la rapidez con la que un sistema o red procesa o transmite información.",
+        "respuesta": "velocidad"
+      },
+      {
+        "pregunta": "Empieza con V: Algo que existe de manera digital o simulada, pero no en el mundo físico.",
+        "respuesta": "virtual"
+      },
+      {
+        "pregunta": "Empieza con V: Proceso de verificar que los datos o acciones sean correctos y cumplan con ciertos requisitos.",
+        "respuesta": "validación"
+      }
+    ]
+  },
+  {
+    "letra": "W",
+    "opciones": [
+      {
+        "pregunta": "Empieza con W: Tecnología de redes inalámbricas que permite la conexión a Internet o a una red local sin cables.",
+        "respuesta": "wifi"
+      },
+      {
+        "pregunta": "Empieza con W: Conjunto de páginas y servicios accesibles a través de Internet, que utilizan el protocolo HTTP.",
+        "respuesta": "web"
+      },
+      {
+        "pregunta": "Empieza con W: Fondo de pantalla, imagen que aparece en el escritorio de un dispositivo.",
+        "respuesta": "wallpaper"
+      }
+    ]
+  },
+  {
+    "letra": "X",
+    "opciones": [
+      {
+        "pregunta": "Empieza con  X: Consola de videojuegos de Microsoft, utilizada para jugar a juegos de video.",
+        "respuesta": "xbox"
+      },
+      {
+        "pregunta": "Contiene X: Servicio de streaming que ofrece películas, series y documentales a través de Internet.",
+        "respuesta": "netflix"
+      },
+      {
+        "pregunta": "Empieza con X: Marca conocida por sus teléfonos inteligentes, pero también por otros dispositivos tecnológicos como smartwatches y electrodomésticos.",
+        "respuesta": "xiaomi"
+      }
+    ]
+  },
+  {
+    "letra": "Y",
+    "opciones": [
+      {
+        "pregunta": "Empieza con Y: Plataforma con videos sugeridos por IA.",
+        "respuesta": "youtube"
+      },
+      {
+        "pregunta": "Contiene Y: Persona que crea y sube videos en YouTube para compartir contenido con su audiencia.",
+        "respuesta": "youtuber"
+      },
+      {
+        "pregunta": "Empieza con Y: Unidad de almacenamiento de datos equivalente a 1,000 zettabytes.",
+        "respuesta": "yottabyte"
+      }
+    ]
+  },
+  {
+    "letra": "Z",
+    "opciones": [
+      {
+        "pregunta": "Empieza con Z: Formato de archivo que permite comprimir varios archivos en uno solo, reduciendo su tamaño.",
+        "respuesta": "zip"
+      },
+      {
+        "pregunta": "Empieza con Z: Unidad de almacenamiento de datos equivalente a 1,000 exabytes o 1,000,000,000,000,000,000 bytes.",
+        "respuesta": "zettabyte"
+      },
+      {
+        "pregunta": "Empieza con Z: Aplicación de videoconferencia usada para realizar reuniones y clases en línea.",
+        "respuesta": "zoom"
+      }
+    ]
+  }
+]
